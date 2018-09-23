@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1575" started-at="2018-08-04T02:52:39Z" finished-at="2018-08-04T02:52:40Z">
+  <suite name="Default suite" duration-ms="3864" started-at="2018-09-23T17:27:09Z" finished-at="2018-09-23T17:27:13Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1575" started-at="2018-08-04T02:52:39Z" finished-at="2018-08-04T02:52:40Z">
-      <class name="readWriteExcel.ReadWriteUserNamePassword">
-        <test-method status="PASS" signature="readWriteExcel()[pri:0, instance:readWriteExcel.ReadWriteUserNamePassword@1534f01b]" name="readWriteExcel" duration-ms="1545" started-at="2018-08-04T02:52:39Z" finished-at="2018-08-04T02:52:40Z">
+    <test name="Default test" duration-ms="3864" started-at="2018-09-23T17:27:09Z" finished-at="2018-09-23T17:27:13Z">
+      <class name="stringsPractice.GetCharAtspecificIndex">
+        <test-method status="PASS" signature="getCharforStringChars()[pri:0, instance:stringsPractice.GetCharAtspecificIndex@3c22fc4c]" name="getCharforStringChars" duration-ms="3832" started-at="2018-09-23T17:27:09Z" finished-at="2018-09-23T17:27:13Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- readWriteExcel -->
-      </class> <!-- readWriteExcel.ReadWriteUserNamePassword -->
+        </test-method> <!-- getCharforStringChars -->
+      </class> <!-- stringsPractice.GetCharAtspecificIndex -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
